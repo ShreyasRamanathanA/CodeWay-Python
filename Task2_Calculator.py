@@ -60,4 +60,4 @@ def calculator():
 # Run the calculator
 calculator()
 
-#This calculator can perform calculations for numbers of type intrgers as well as decimals
+#This calculator can perform calculations for numbers of type integers as well as decimals
